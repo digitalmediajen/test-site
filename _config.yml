@@ -1,0 +1,5 @@
+title: Test site
+description: Use the Slate theme for the test site.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
